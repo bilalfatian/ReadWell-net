@@ -1,4 +1,7 @@
-# ReadWell <p align="right"> <img src="./site-logo.jpg" alt="ReadWell Logo" width="100"/> </p>
+<div style="display: flex; justify-content: space-between;">
+    <h1>ReadWell</h1>
+    <img src="./site-logo.jpg" alt="ReadWell Logo" width="100"/>
+</div>
 
 
 
