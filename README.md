@@ -1,4 +1,4 @@
-# ReadWell <div style="position: absolute; top: 0; right: 0;"> <img src="./site-logo.jpg" alt="ReadWell Logo" width="200"/> </div>
+# ReadWell <div style="position: absolute; top: 0; left: 0;"> <img src="./site-logo.jpg" alt="ReadWell Logo" width="100"/> </div>
 
 
 
